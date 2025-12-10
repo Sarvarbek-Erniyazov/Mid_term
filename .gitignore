@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+
+# Data
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+*.h5
+*.bin
+*.npy
+*.pt
+*.onnx
+
+# Models
+*.model
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
